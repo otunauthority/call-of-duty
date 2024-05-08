@@ -86,7 +86,7 @@
         height: 100vh;
         background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(img/call-of-duty-7680x4320.jpg);
         background-size: cover;
-        background-position: center;
+        background-position: auto;
     }
     .logo{
         width: 200px;
